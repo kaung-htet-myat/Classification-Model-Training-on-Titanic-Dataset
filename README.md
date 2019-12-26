@@ -1,7 +1,7 @@
 # Classification-Model-Training-on-Titanic-Dataset
 Data Pre-processing, EDA and training 8 different models and evaluation on Titanic Dataset
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/kaung-htet-myat/Classification-Model-Training-on-Titanic-Dataset/blob/master/Titanic.jpg "Logo Title Text 1")
 
 ## Libraries used:
 1. Numpy
